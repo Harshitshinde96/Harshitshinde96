@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 <h1 align="center">Hi 👋, I'm Harshit Shinde</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
-<img align="right" width="400"src="https://i.giphy.com/emgR1iH5XJhml28zdg.webp" alt="Coding">
+<img align="right" width="400"src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlycndxaTBldDdwa3oxNjdzaWZpcW1ib3B6MXZka2Q4ZGZoazhieCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitshinde96&label=Profile%20views&color=0e75b6&style=flat" alt="harshitshinde96" /> </p>
 
